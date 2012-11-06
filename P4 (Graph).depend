@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1351910152 source:d:\documents\_source code\c++\c210\p4 (graph)\intstack.cpp
+	<iostream>
+	"IntStack.h"
+
+1351992202 d:\documents\_source code\c++\c210\p4 (graph)\intstack.h
+
+1351995846 source:d:\documents\_source code\c++\c210\p4 (graph)\main.cpp
+	<iostream>
+	"graph.h"
+
+1351910134 source:d:\documents\_source code\c++\c210\p4 (graph)\intqueue.cpp
+	<iostream>
+	"IntQueue.h"
+
+1351910122 d:\documents\_source code\c++\c210\p4 (graph)\intqueue.h
+
+1351995689 source:d:\documents\_source code\c++\c210\p4 (graph)\graph.cpp
+	"graph.h"
+	"IntQueue.h"
+	"IntStack.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1351995217 d:\documents\_source code\c++\c210\p4 (graph)\graph.h
+	<string>
+	"IntStack.h"
+	"IntQueue.h"
+
